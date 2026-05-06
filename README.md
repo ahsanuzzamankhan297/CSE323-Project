@@ -35,5 +35,3 @@ The current implementation uses:
 - total items: 20
 - one producer thread
 - one consumer thread
-
-You can extend the simulation by adding more producer or consumer threads and changing the buffer size.
